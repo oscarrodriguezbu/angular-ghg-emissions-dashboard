@@ -1,6 +1,6 @@
 import { ChangeDetectorRef, Component, OnInit } from '@angular/core';
 import { SearchSelectComponent } from '../../components/search-select/search-select.component';
-import { EmissionsChartComponent } from '../../components/emissions-chart.component/emissions-chart.component';
+import { EmissionsChartComponent } from '../../components/emissions-chart/emissions-chart.component';
 import { EmissionsService } from '../../services/emissions.service';
 import type { Emission } from '../../interfaces/emission.interface';
 @Component({

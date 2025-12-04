@@ -46,7 +46,6 @@ export class EmissionsChartComponent implements OnChanges {
       ]
     };
 
-
     this.chartOptions = {
       ...this.chartOptions,
       plugins: {
