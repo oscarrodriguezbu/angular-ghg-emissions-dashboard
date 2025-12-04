@@ -1,1 +1,13 @@
-<p>by-emision-type-page works!</p>,
+<emissions-search-select
+  selectName="an emission type"
+  [values]="emission_type"
+  (valueChange)="onEmissionTypeChange($event)"
+/>
+
+<app-emissions-chart
+  [xValues]="chartX"
+  [yValues]="chartY"
+  [title]="chartTitle"
+  [datasetLabel]="datasetLabel"
+  [chartType]="chartType"
+/>

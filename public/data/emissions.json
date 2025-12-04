@@ -684,7 +684,7 @@
     "emissions": 8.1,
     "emission_type": "CO2",
     "country": "Germany",
-    "activity": "Industry"
+    "activity": "Air travel"
   },
   {
     "year": 2016,
@@ -787,10 +787,10 @@
   },
   {
     "year": 2018,
-    "emissions": 14.8,
+    "emissions": 6.8,
     "emission_type": "CO2",
     "country": "United States",
-    "activity": "Industry"
+    "activity": "Air travel"
   },
   {
     "year": 2019,
@@ -811,7 +811,7 @@
     "emissions": 14.1,
     "emission_type": "CH4",
     "country": "United States",
-    "activity": "Waste"
+    "activity": "Air travel"
   },
   {
     "year": 2022,

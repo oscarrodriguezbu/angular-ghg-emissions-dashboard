@@ -1,1 +1,13 @@
-<p>by-activity-page works!</p>,
+<emissions-search-select
+  selectName="an activitie"
+  [values]="activities"
+  (valueChange)="onActivityChange($event)"
+/>
+
+<app-emissions-chart
+  [xValues]="chartX"
+  [yValues]="chartY"
+  [title]="chartTitle"
+  [datasetLabel]="datasetLabel"
+  [chartType]="chartType"
+/>

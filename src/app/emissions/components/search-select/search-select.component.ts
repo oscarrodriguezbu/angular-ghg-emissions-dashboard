@@ -25,7 +25,7 @@ export class SearchSelectComponent {
     return this._values;
   }
 
-  @Input() selectName: string = 'country';
+  @Input() selectName: string = 'a country';
 
   @Output() valueChange = new EventEmitter<string>();
 
