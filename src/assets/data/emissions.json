@@ -1,0 +1,221 @@
+[
+  {
+    "year": 2015,
+    "emissions": 4.3,
+    "emission_type": "CO2",
+    "country": "Colombia",
+    "activity": "Transport"
+  },
+  {
+    "year": 2016,
+    "emissions": 4.1,
+    "emission_type": "CO2",
+    "country": "Colombia",
+    "activity": "Energy"
+  },
+  {
+    "year": 2017,
+    "emissions": 4.5,
+    "emission_type": "N2O",
+    "country": "Colombia",
+    "activity": "Agriculture"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 6.2,
+    "emission_type": "CO2",
+    "country": "Mexico",
+    "activity": "Energy"
+  },
+  {
+    "year": 2016,
+    "emissions": 6.5,
+    "emission_type": "CH4",
+    "country": "Mexico",
+    "activity": "Waste"
+  },
+  {
+    "year": 2017,
+    "emissions": 6.3,
+    "emission_type": "CO2",
+    "country": "Mexico",
+    "activity": "Transport"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 5.1,
+    "emission_type": "CO2",
+    "country": "Chile",
+    "activity": "Industry"
+  },
+  {
+    "year": 2016,
+    "emissions": 5.0,
+    "emission_type": "N2O",
+    "country": "Chile",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2017,
+    "emissions": 5.4,
+    "emission_type": "CO2",
+    "country": "Chile",
+    "activity": "Energy"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 10.5,
+    "emission_type": "CO2",
+    "country": "China",
+    "activity": "Industry"
+  },
+  {
+    "year": 2016,
+    "emissions": 10.7,
+    "emission_type": "CO2",
+    "country": "China",
+    "activity": "Energy"
+  },
+  {
+    "year": 2017,
+    "emissions": 10.9,
+    "emission_type": "CH4",
+    "country": "China",
+    "activity": "Waste"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 9.8,
+    "emission_type": "CO2",
+    "country": "Japan",
+    "activity": "Energy"
+  },
+  {
+    "year": 2016,
+    "emissions": 9.6,
+    "emission_type": "CO2",
+    "country": "Japan",
+    "activity": "Transport"
+  },
+  {
+    "year": 2017,
+    "emissions": 9.4,
+    "emission_type": "N2O",
+    "country": "Japan",
+    "activity": "Industry"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 7.2,
+    "emission_type": "CO2",
+    "country": "South Korea",
+    "activity": "Industry"
+  },
+  {
+    "year": 2016,
+    "emissions": 7.4,
+    "emission_type": "CO2",
+    "country": "South Korea",
+    "activity": "Energy"
+  },
+  {
+    "year": 2017,
+    "emissions": 7.1,
+    "emission_type": "CH4",
+    "country": "South Korea",
+    "activity": "Agriculture"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 5.2,
+    "emission_type": "CO2",
+    "country": "United Kingdom",
+    "activity": "Air travel"
+  },
+  {
+    "year": 2016,
+    "emissions": 4.9,
+    "emission_type": "N2O",
+    "country": "United Kingdom",
+    "activity": "Waste"
+  },
+  {
+    "year": 2017,
+    "emissions": 4.7,
+    "emission_type": "CO2",
+    "country": "United Kingdom",
+    "activity": "Industry"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 4.8,
+    "emission_type": "CO2",
+    "country": "France",
+    "activity": "Energy"
+  },
+  {
+    "year": 2016,
+    "emissions": 4.6,
+    "emission_type": "CH4",
+    "country": "France",
+    "activity": "Waste"
+  },
+  {
+    "year": 2017,
+    "emissions": 4.5,
+    "emission_type": "CO2",
+    "country": "France",
+    "activity": "Transport"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 8.1,
+    "emission_type": "CO2",
+    "country": "Germany",
+    "activity": "Industry"
+  },
+  {
+    "year": 2016,
+    "emissions": 8.0,
+    "emission_type": "CO2",
+    "country": "Germany",
+    "activity": "Energy"
+  },
+  {
+    "year": 2017,
+    "emissions": 7.8,
+    "emission_type": "N2O",
+    "country": "Germany",
+    "activity": "Agriculture"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 15.2,
+    "emission_type": "CO2",
+    "country": "United States",
+    "activity": "Energy"
+  },
+  {
+    "year": 2016,
+    "emissions": 14.9,
+    "emission_type": "CH4",
+    "country": "United States",
+    "activity": "Waste"
+  },
+  {
+    "year": 2017,
+    "emissions": 14.7,
+    "emission_type": "CO2",
+    "country": "United States",
+    "activity": "Transport"
+  }
+]
