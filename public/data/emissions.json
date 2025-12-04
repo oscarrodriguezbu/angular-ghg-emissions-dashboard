@@ -1,0 +1,851 @@
+[
+  {
+    "year": 2015,
+    "emissions": 4.3,
+    "emission_type": "CO2",
+    "country": "Colombia",
+    "activity": "Transport"
+  },
+  {
+    "year": 2016,
+    "emissions": 4.1,
+    "emission_type": "CO2",
+    "country": "Colombia",
+    "activity": "Energy"
+  },
+  {
+    "year": 2017,
+    "emissions": 4.5,
+    "emission_type": "N2O",
+    "country": "Colombia",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2018,
+    "emissions": 4.6,
+    "emission_type": "CO2",
+    "country": "Colombia",
+    "activity": "Transport"
+  },
+  {
+    "year": 2019,
+    "emissions": 4.4,
+    "emission_type": "CH4",
+    "country": "Colombia",
+    "activity": "Waste"
+  },
+  {
+    "year": 2020,
+    "emissions": 4.2,
+    "emission_type": "CO2",
+    "country": "Colombia",
+    "activity": "Energy"
+  },
+  {
+    "year": 2021,
+    "emissions": 4.5,
+    "emission_type": "N2O",
+    "country": "Colombia",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2022,
+    "emissions": 4.6,
+    "emission_type": "CO2",
+    "country": "Colombia",
+    "activity": "Transport"
+  },
+  {
+    "year": 2023,
+    "emissions": 4.7,
+    "emission_type": "CH4",
+    "country": "Colombia",
+    "activity": "Waste"
+  },
+  {
+    "year": 2024,
+    "emissions": 4.6,
+    "emission_type": "CO2",
+    "country": "Colombia",
+    "activity": "Energy"
+  },
+  {
+    "year": 2025,
+    "emissions": 4.5,
+    "emission_type": "N2O",
+    "country": "Colombia",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2026,
+    "emissions": 4.4,
+    "emission_type": "CO2",
+    "country": "Colombia",
+    "activity": "Transport"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 6.2,
+    "emission_type": "CO2",
+    "country": "Mexico",
+    "activity": "Energy"
+  },
+  {
+    "year": 2016,
+    "emissions": 6.5,
+    "emission_type": "CH4",
+    "country": "Mexico",
+    "activity": "Waste"
+  },
+  {
+    "year": 2017,
+    "emissions": 6.3,
+    "emission_type": "CO2",
+    "country": "Mexico",
+    "activity": "Transport"
+  },
+  {
+    "year": 2018,
+    "emissions": 6.6,
+    "emission_type": "CO2",
+    "country": "Mexico",
+    "activity": "Energy"
+  },
+  {
+    "year": 2019,
+    "emissions": 6.4,
+    "emission_type": "N2O",
+    "country": "Mexico",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2020,
+    "emissions": 6.1,
+    "emission_type": "CO2",
+    "country": "Mexico",
+    "activity": "Transport"
+  },
+  {
+    "year": 2021,
+    "emissions": 6.3,
+    "emission_type": "CH4",
+    "country": "Mexico",
+    "activity": "Waste"
+  },
+  {
+    "year": 2022,
+    "emissions": 6.4,
+    "emission_type": "CO2",
+    "country": "Mexico",
+    "activity": "Energy"
+  },
+  {
+    "year": 2023,
+    "emissions": 6.2,
+    "emission_type": "N2O",
+    "country": "Mexico",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2024,
+    "emissions": 6.1,
+    "emission_type": "CO2",
+    "country": "Mexico",
+    "activity": "Transport"
+  },
+  {
+    "year": 2025,
+    "emissions": 6.0,
+    "emission_type": "CH4",
+    "country": "Mexico",
+    "activity": "Waste"
+  },
+  {
+    "year": 2026,
+    "emissions": 5.9,
+    "emission_type": "CO2",
+    "country": "Mexico",
+    "activity": "Energy"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 5.1,
+    "emission_type": "CO2",
+    "country": "Chile",
+    "activity": "Industry"
+  },
+  {
+    "year": 2016,
+    "emissions": 5.0,
+    "emission_type": "N2O",
+    "country": "Chile",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2017,
+    "emissions": 5.4,
+    "emission_type": "CO2",
+    "country": "Chile",
+    "activity": "Energy"
+  },
+  {
+    "year": 2018,
+    "emissions": 5.5,
+    "emission_type": "CO2",
+    "country": "Chile",
+    "activity": "Transport"
+  },
+  {
+    "year": 2019,
+    "emissions": 5.3,
+    "emission_type": "CH4",
+    "country": "Chile",
+    "activity": "Waste"
+  },
+  {
+    "year": 2020,
+    "emissions": 5.1,
+    "emission_type": "CO2",
+    "country": "Chile",
+    "activity": "Energy"
+  },
+  {
+    "year": 2021,
+    "emissions": 5.2,
+    "emission_type": "N2O",
+    "country": "Chile",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2022,
+    "emissions": 5.3,
+    "emission_type": "CO2",
+    "country": "Chile",
+    "activity": "Industry"
+  },
+  {
+    "year": 2023,
+    "emissions": 5.2,
+    "emission_type": "CH4",
+    "country": "Chile",
+    "activity": "Waste"
+  },
+  {
+    "year": 2024,
+    "emissions": 5.1,
+    "emission_type": "CO2",
+    "country": "Chile",
+    "activity": "Energy"
+  },
+  {
+    "year": 2025,
+    "emissions": 5.0,
+    "emission_type": "N2O",
+    "country": "Chile",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2026,
+    "emissions": 4.9,
+    "emission_type": "CO2",
+    "country": "Chile",
+    "activity": "Transport"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 10.5,
+    "emission_type": "CO2",
+    "country": "China",
+    "activity": "Industry"
+  },
+  {
+    "year": 2016,
+    "emissions": 10.7,
+    "emission_type": "CO2",
+    "country": "China",
+    "activity": "Energy"
+  },
+  {
+    "year": 2017,
+    "emissions": 10.9,
+    "emission_type": "CH4",
+    "country": "China",
+    "activity": "Waste"
+  },
+  {
+    "year": 2018,
+    "emissions": 11.1,
+    "emission_type": "CO2",
+    "country": "China",
+    "activity": "Transport"
+  },
+  {
+    "year": 2019,
+    "emissions": 11.0,
+    "emission_type": "N2O",
+    "country": "China",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2020,
+    "emissions": 10.8,
+    "emission_type": "CO2",
+    "country": "China",
+    "activity": "Energy"
+  },
+  {
+    "year": 2021,
+    "emissions": 11.2,
+    "emission_type": "CH4",
+    "country": "China",
+    "activity": "Waste"
+  },
+  {
+    "year": 2022,
+    "emissions": 11.4,
+    "emission_type": "CO2",
+    "country": "China",
+    "activity": "Industry"
+  },
+  {
+    "year": 2023,
+    "emissions": 11.3,
+    "emission_type": "N2O",
+    "country": "China",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2024,
+    "emissions": 11.1,
+    "emission_type": "CO2",
+    "country": "China",
+    "activity": "Energy"
+  },
+  {
+    "year": 2025,
+    "emissions": 10.9,
+    "emission_type": "CH4",
+    "country": "China",
+    "activity": "Waste"
+  },
+  {
+    "year": 2026,
+    "emissions": 10.7,
+    "emission_type": "CO2",
+    "country": "China",
+    "activity": "Transport"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 9.8,
+    "emission_type": "CO2",
+    "country": "Japan",
+    "activity": "Energy"
+  },
+  {
+    "year": 2016,
+    "emissions": 9.6,
+    "emission_type": "CO2",
+    "country": "Japan",
+    "activity": "Transport"
+  },
+  {
+    "year": 2017,
+    "emissions": 9.4,
+    "emission_type": "N2O",
+    "country": "Japan",
+    "activity": "Industry"
+  },
+  {
+    "year": 2018,
+    "emissions": 9.5,
+    "emission_type": "CO2",
+    "country": "Japan",
+    "activity": "Energy"
+  },
+  {
+    "year": 2019,
+    "emissions": 9.3,
+    "emission_type": "CH4",
+    "country": "Japan",
+    "activity": "Waste"
+  },
+  {
+    "year": 2020,
+    "emissions": 9.1,
+    "emission_type": "CO2",
+    "country": "Japan",
+    "activity": "Transport"
+  },
+  {
+    "year": 2021,
+    "emissions": 9.2,
+    "emission_type": "N2O",
+    "country": "Japan",
+    "activity": "Industry"
+  },
+  {
+    "year": 2022,
+    "emissions": 9.3,
+    "emission_type": "CO2",
+    "country": "Japan",
+    "activity": "Energy"
+  },
+  {
+    "year": 2023,
+    "emissions": 9.1,
+    "emission_type": "CH4",
+    "country": "Japan",
+    "activity": "Waste"
+  },
+  {
+    "year": 2024,
+    "emissions": 8.9,
+    "emission_type": "CO2",
+    "country": "Japan",
+    "activity": "Transport"
+  },
+  {
+    "year": 2025,
+    "emissions": 8.8,
+    "emission_type": "N2O",
+    "country": "Japan",
+    "activity": "Industry"
+  },
+  {
+    "year": 2026,
+    "emissions": 8.6,
+    "emission_type": "CO2",
+    "country": "Japan",
+    "activity": "Energy"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 7.2,
+    "emission_type": "CO2",
+    "country": "South Korea",
+    "activity": "Industry"
+  },
+  {
+    "year": 2016,
+    "emissions": 7.4,
+    "emission_type": "CO2",
+    "country": "South Korea",
+    "activity": "Energy"
+  },
+  {
+    "year": 2017,
+    "emissions": 7.1,
+    "emission_type": "CH4",
+    "country": "South Korea",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2018,
+    "emissions": 7.3,
+    "emission_type": "CO2",
+    "country": "South Korea",
+    "activity": "Transport"
+  },
+  {
+    "year": 2019,
+    "emissions": 7.2,
+    "emission_type": "N2O",
+    "country": "South Korea",
+    "activity": "Industry"
+  },
+  {
+    "year": 2020,
+    "emissions": 7.0,
+    "emission_type": "CO2",
+    "country": "South Korea",
+    "activity": "Energy"
+  },
+  {
+    "year": 2021,
+    "emissions": 7.1,
+    "emission_type": "CH4",
+    "country": "South Korea",
+    "activity": "Waste"
+  },
+  {
+    "year": 2022,
+    "emissions": 7.0,
+    "emission_type": "CO2",
+    "country": "South Korea",
+    "activity": "Industry"
+  },
+  {
+    "year": 2023,
+    "emissions": 6.9,
+    "emission_type": "N2O",
+    "country": "South Korea",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2024,
+    "emissions": 6.8,
+    "emission_type": "CO2",
+    "country": "South Korea",
+    "activity": "Energy"
+  },
+  {
+    "year": 2025,
+    "emissions": 6.7,
+    "emission_type": "CH4",
+    "country": "South Korea",
+    "activity": "Waste"
+  },
+  {
+    "year": 2026,
+    "emissions": 6.6,
+    "emission_type": "CO2",
+    "country": "South Korea",
+    "activity": "Transport"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 5.2,
+    "emission_type": "CO2",
+    "country": "United Kingdom",
+    "activity": "Air travel"
+  },
+  {
+    "year": 2016,
+    "emissions": 4.9,
+    "emission_type": "N2O",
+    "country": "United Kingdom",
+    "activity": "Waste"
+  },
+  {
+    "year": 2017,
+    "emissions": 4.7,
+    "emission_type": "CO2",
+    "country": "United Kingdom",
+    "activity": "Industry"
+  },
+  {
+    "year": 2018,
+    "emissions": 4.8,
+    "emission_type": "CO2",
+    "country": "United Kingdom",
+    "activity": "Energy"
+  },
+  {
+    "year": 2019,
+    "emissions": 4.6,
+    "emission_type": "CH4",
+    "country": "United Kingdom",
+    "activity": "Waste"
+  },
+  {
+    "year": 2020,
+    "emissions": 4.4,
+    "emission_type": "CO2",
+    "country": "United Kingdom",
+    "activity": "Transport"
+  },
+  {
+    "year": 2021,
+    "emissions": 4.5,
+    "emission_type": "N2O",
+    "country": "United Kingdom",
+    "activity": "Industry"
+  },
+  {
+    "year": 2022,
+    "emissions": 4.4,
+    "emission_type": "CO2",
+    "country": "United Kingdom",
+    "activity": "Energy"
+  },
+  {
+    "year": 2023,
+    "emissions": 4.3,
+    "emission_type": "CH4",
+    "country": "United Kingdom",
+    "activity": "Waste"
+  },
+  {
+    "year": 2024,
+    "emissions": 4.2,
+    "emission_type": "CO2",
+    "country": "United Kingdom",
+    "activity": "Transport"
+  },
+  {
+    "year": 2025,
+    "emissions": 4.1,
+    "emission_type": "N2O",
+    "country": "United Kingdom",
+    "activity": "Industry"
+  },
+  {
+    "year": 2026,
+    "emissions": 4.0,
+    "emission_type": "CO2",
+    "country": "United Kingdom",
+    "activity": "Energy"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 4.8,
+    "emission_type": "CO2",
+    "country": "France",
+    "activity": "Energy"
+  },
+  {
+    "year": 2016,
+    "emissions": 4.6,
+    "emission_type": "CH4",
+    "country": "France",
+    "activity": "Waste"
+  },
+  {
+    "year": 2017,
+    "emissions": 4.5,
+    "emission_type": "CO2",
+    "country": "France",
+    "activity": "Transport"
+  },
+  {
+    "year": 2018,
+    "emissions": 4.6,
+    "emission_type": "CO2",
+    "country": "France",
+    "activity": "Industry"
+  },
+  {
+    "year": 2019,
+    "emissions": 4.4,
+    "emission_type": "N2O",
+    "country": "France",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2020,
+    "emissions": 4.2,
+    "emission_type": "CO2",
+    "country": "France",
+    "activity": "Energy"
+  },
+  {
+    "year": 2021,
+    "emissions": 4.3,
+    "emission_type": "CH4",
+    "country": "France",
+    "activity": "Waste"
+  },
+  {
+    "year": 2022,
+    "emissions": 4.2,
+    "emission_type": "CO2",
+    "country": "France",
+    "activity": "Transport"
+  },
+  {
+    "year": 2023,
+    "emissions": 4.1,
+    "emission_type": "N2O",
+    "country": "France",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2024,
+    "emissions": 4.0,
+    "emission_type": "CO2",
+    "country": "France",
+    "activity": "Energy"
+  },
+  {
+    "year": 2025,
+    "emissions": 3.9,
+    "emission_type": "CH4",
+    "country": "France",
+    "activity": "Waste"
+  },
+  {
+    "year": 2026,
+    "emissions": 3.8,
+    "emission_type": "CO2",
+    "country": "France",
+    "activity": "Transport"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 8.1,
+    "emission_type": "CO2",
+    "country": "Germany",
+    "activity": "Industry"
+  },
+  {
+    "year": 2016,
+    "emissions": 8.0,
+    "emission_type": "CO2",
+    "country": "Germany",
+    "activity": "Energy"
+  },
+  {
+    "year": 2017,
+    "emissions": 7.8,
+    "emission_type": "N2O",
+    "country": "Germany",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2018,
+    "emissions": 7.9,
+    "emission_type": "CO2",
+    "country": "Germany",
+    "activity": "Transport"
+  },
+  {
+    "year": 2019,
+    "emissions": 7.7,
+    "emission_type": "CH4",
+    "country": "Germany",
+    "activity": "Waste"
+  },
+  {
+    "year": 2020,
+    "emissions": 7.5,
+    "emission_type": "CO2",
+    "country": "Germany",
+    "activity": "Energy"
+  },
+  {
+    "year": 2021,
+    "emissions": 7.6,
+    "emission_type": "N2O",
+    "country": "Germany",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2022,
+    "emissions": 7.5,
+    "emission_type": "CO2",
+    "country": "Germany",
+    "activity": "Industry"
+  },
+  {
+    "year": 2023,
+    "emissions": 7.4,
+    "emission_type": "CH4",
+    "country": "Germany",
+    "activity": "Waste"
+  },
+  {
+    "year": 2024,
+    "emissions": 7.3,
+    "emission_type": "CO2",
+    "country": "Germany",
+    "activity": "Energy"
+  },
+  {
+    "year": 2025,
+    "emissions": 7.2,
+    "emission_type": "N2O",
+    "country": "Germany",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2026,
+    "emissions": 7.1,
+    "emission_type": "CO2",
+    "country": "Germany",
+    "activity": "Transport"
+  },
+
+  {
+    "year": 2015,
+    "emissions": 15.2,
+    "emission_type": "CO2",
+    "country": "United States",
+    "activity": "Energy"
+  },
+  {
+    "year": 2016,
+    "emissions": 14.9,
+    "emission_type": "CH4",
+    "country": "United States",
+    "activity": "Waste"
+  },
+  {
+    "year": 2017,
+    "emissions": 14.7,
+    "emission_type": "CO2",
+    "country": "United States",
+    "activity": "Transport"
+  },
+  {
+    "year": 2018,
+    "emissions": 14.8,
+    "emission_type": "CO2",
+    "country": "United States",
+    "activity": "Industry"
+  },
+  {
+    "year": 2019,
+    "emissions": 14.6,
+    "emission_type": "N2O",
+    "country": "United States",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2020,
+    "emissions": 13.9,
+    "emission_type": "CO2",
+    "country": "United States",
+    "activity": "Energy"
+  },
+  {
+    "year": 2021,
+    "emissions": 14.1,
+    "emission_type": "CH4",
+    "country": "United States",
+    "activity": "Waste"
+  },
+  {
+    "year": 2022,
+    "emissions": 14.0,
+    "emission_type": "CO2",
+    "country": "United States",
+    "activity": "Transport"
+  },
+  {
+    "year": 2023,
+    "emissions": 13.8,
+    "emission_type": "N2O",
+    "country": "United States",
+    "activity": "Agriculture"
+  },
+  {
+    "year": 2024,
+    "emissions": 13.6,
+    "emission_type": "CO2",
+    "country": "United States",
+    "activity": "Energy"
+  },
+  {
+    "year": 2025,
+    "emissions": 13.4,
+    "emission_type": "CH4",
+    "country": "United States",
+    "activity": "Waste"
+  },
+  {
+    "year": 2026,
+    "emissions": 13.2,
+    "emission_type": "CO2",
+    "country": "United States",
+    "activity": "Transport"
+  }
+]

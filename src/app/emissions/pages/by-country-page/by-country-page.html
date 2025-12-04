@@ -1,1 +1,12 @@
-<p>by-country-page works!</p>,
+<emissions-search-select
+  [values]="countries"
+  (valueChange)="onCountryChange($event)"
+/>
+
+<app-emissions-chart
+  [xValues]="chartX"
+  [yValues]="chartY"
+  [title]="chartTitle"
+  [datasetLabel]="datasetLabel"
+  [chartType]="chartType"
+/>
