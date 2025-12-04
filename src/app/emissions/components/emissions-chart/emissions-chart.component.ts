@@ -14,6 +14,8 @@ export class EmissionsChartComponent implements OnChanges {
   @Input() title = 'Chart';
   @Input() datasetLabel = 'Dataset';
   @Input() chartType: ChartType = 'bar';
+  @Input() xAxisTitle = 'X Axis';
+  @Input() yAxisTitle = 'Y Axis';
 
   @ViewChild(BaseChartDirective) chart?: BaseChartDirective;
 
@@ -29,6 +31,20 @@ export class EmissionsChartComponent implements OnChanges {
       title: {
         display: true,
         text: ''
+      }
+    },
+    scales: {
+      x: {
+        title: {
+          display: true,
+          text: ''
+        }
+      },
+      y: {
+        title: {
+          display: true,
+          text: ''
+        }
       }
     }
   };
@@ -54,9 +70,24 @@ export class EmissionsChartComponent implements OnChanges {
           display: true,
           text: this.title
         }
+      },
+      scales: {
+        x: {
+          title: {
+            display: true,
+            text: this.xAxisTitle
+          }
+        },
+        y: {
+          title: {
+            display: true,
+            text: this.yAxisTitle
+          }
+        }
       }
     };
 
     this.chart?.update();
   }
+
 }

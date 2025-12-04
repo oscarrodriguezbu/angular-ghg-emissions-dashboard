@@ -19,6 +19,8 @@ export class ByEmissionTypePage implements OnInit {
   chartTitle = '';
   datasetLabel = '';
   chartType: 'line' | 'bar' = 'line';
+  xAxisTitle = "Year";
+  yAxisTitle = "Emissions";
 
   constructor(
     private readonly emissionsService: EmissionsService,

@@ -4,10 +4,14 @@
   (valueChange)="onEmissionTypeChange($event)"
 />
 
+@if (chartX.length > 0) {
 <app-emissions-chart
   [xValues]="chartX"
   [yValues]="chartY"
   [title]="chartTitle"
   [datasetLabel]="datasetLabel"
   [chartType]="chartType"
+  [xAxisTitle]="xAxisTitle"
+  [yAxisTitle]="yAxisTitle"
 />
+}
