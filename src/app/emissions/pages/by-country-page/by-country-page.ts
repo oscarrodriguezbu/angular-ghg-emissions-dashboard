@@ -14,15 +14,15 @@ export class ByCountryPage implements OnInit {
   filteredData: Emission[] = [];
   countries: string[] = [];
 
-  selectedCountry = '';
+  selectedCountry: string = '';
 
   chartX: string[] = [];
   chartY: number[] = [];
-  chartTitle = '';
-  datasetLabel = '';
+  chartTitle: string = '';
+  datasetLabel: string = '';
   chartType: 'line' | 'bar' = 'line';
-  xAxisTitle = "Year";
-  yAxisTitle = "Emissions";
+  xAxisTitle: string = "Year";
+  yAxisTitle: string = "Emissions";
 
   constructor(
     private readonly emissionsService: EmissionsService,
