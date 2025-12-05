@@ -1,6 +1,10 @@
-# GhgEmissionsDashboard
+# Ghg Emissions Dashboard
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.2.
+
+## Technical Test
+For more context about this project, you can refer to the [technical test PDF](docs/Technical%20Test%20Frontend,%20Colombia.pdf).
+
 
 ## Development server
 
@@ -69,6 +73,7 @@ For more information on using the Angular CLI, including detailed command refere
 
 ## Improvements & Future Enhancements
 
-* Create a generic, reusable component to avoid duplicated logic across the three pages.
-* Move the data fetching logic to a higher level so the JSON data is not reloaded every time the route changes or implement a caching strategy.
-* Use query parameters to preserve the application state when navigating between routes.
+* Refactor repeated logic into a generic reusable component to be shared across the three main pages, reducing code duplication and improving maintainability.
+* Centralize the data fetching logic at a higher application level so the JSON data is loaded once and reused across route changes, or alternatively, implement a caching mechanism.
+* Leverage query parameters to preserve and restore the application state when navigating between different routes.
+
